@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LTPSQLAPI">
+    <output-path>$USER_HOME$/Desktop/LTP</output-path>
+    <root id="archive" name="LTPSQLAPI.jar">
+      <element id="module-output" name="LTPSQLAPI" />
+    </root>
+  </artifact>
+</component>
